@@ -1,13 +1,13 @@
 {
 	"name": "scrolltop-emitter",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "A simple Polymer element which emits an attribute containing the current document scrollTop",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/ThatDevCompany/polymer-style-animator.git"
+		"url": "git://github.com/ThatDevCompany/polymer-scrolltop-emitter.git"
 	},
 	"license": "MIT",
-	"main": "style-animator.html",
+	"main": "scrolltop-emitter.html",
 	"dependencies": {
 		"polymer": "Polymer/polymer#*"
 	},
